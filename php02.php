@@ -1,7 +1,7 @@
 1.
 <?php
 $name = "kyou";
-if ($name = "kyou") {
+if ($name == "kyou") {
     echo "私は $name です";
 }   else {
     echo "$name ではありません";
